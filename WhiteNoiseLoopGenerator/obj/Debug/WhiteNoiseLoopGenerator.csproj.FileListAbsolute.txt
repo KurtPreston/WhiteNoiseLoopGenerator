@@ -1,0 +1,8 @@
+D:\Kurt\Documents\Programs\WhiteNoiseLoopGenerator\WhiteNoiseLoopGenerator\obj\Debug\ResolveAssemblyReference.cache
+D:\Kurt\Documents\Programs\WhiteNoiseLoopGenerator\WhiteNoiseLoopGenerator\obj\Debug\WhiteNoiseLoopGenerator.WhiteNoiseForm.resources
+D:\Kurt\Documents\Programs\WhiteNoiseLoopGenerator\WhiteNoiseLoopGenerator\obj\Debug\WhiteNoiseLoopGenerator.Properties.Resources.resources
+D:\Kurt\Documents\Programs\WhiteNoiseLoopGenerator\WhiteNoiseLoopGenerator\obj\Debug\WhiteNoiseLoopGenerator.csproj.GenerateResource.Cache
+D:\Kurt\Documents\Programs\WhiteNoiseLoopGenerator\WhiteNoiseLoopGenerator\bin\Debug\WhiteNoiseLoopGenerator.exe
+D:\Kurt\Documents\Programs\WhiteNoiseLoopGenerator\WhiteNoiseLoopGenerator\bin\Debug\WhiteNoiseLoopGenerator.pdb
+D:\Kurt\Documents\Programs\WhiteNoiseLoopGenerator\WhiteNoiseLoopGenerator\obj\Debug\WhiteNoiseLoopGenerator.exe
+D:\Kurt\Documents\Programs\WhiteNoiseLoopGenerator\WhiteNoiseLoopGenerator\obj\Debug\WhiteNoiseLoopGenerator.pdb
